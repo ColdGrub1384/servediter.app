@@ -1,5 +1,5 @@
 #page title
-page_title                                : Codator - code-server
+page_title                                : Codater - code-server
 
 # App Info
 ios_app_id                                :                                           1504491325
@@ -10,7 +10,7 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png
-app_name                                  : Codator
+app_name                                  : Codater
 app_price                                 : 2.99$ /month (Free with self hosted server)
 app_description                           : Online code editor
 
