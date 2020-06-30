@@ -38,7 +38,7 @@ youtube_username                          :
 features                                  :
     
   - title                                 : Online
-    description                           : This app uses <a href="https://github.com/cdr/code-server">code-server</a>, a browser version of VS Code already hosted so there is nothing to setup unless you want to use your own server. This application is developed and maintained just by me (Adrian Labbé) and is not affiliated with or endorsed by Microsoft Corporation.
+    description                           : This app uses <a href="https://github.com/cdr/code-server">code-server</a>, a browser version of VS Code already hosted so there is nothing to setup unless you want to use your own server.
     fontawesome_icon_name                 : globe
 
   - title                                 : Edit local files
